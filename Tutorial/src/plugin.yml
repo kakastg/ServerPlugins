@@ -1,0 +1,23 @@
+  name: Tutorial
+  main: com.kakastg.tutorial.Tutorial
+  version: 1.0
+  author: kakastg
+  api-version: 1.14
+  commands:
+    heal:
+      description: Heals a player to max health
+      usage: /<command>
+      aliases: [healing, healme, healmax]
+    feed:
+      description: Feeds a player to max hunger
+      usage: /<command>
+      aliases: [ hungry, needsprint, foodmax]
+    farmtime:
+      description: Spawns entities in number specified in arguments
+      usage: /<command> <entity> <amount>
+    megumin:
+      description: Gives a Wand of Instant kill to player
+      usage: /<command>
+    select:
+      description: Opens a selection menu
+      usage: /<command>
