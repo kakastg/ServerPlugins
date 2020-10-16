@@ -15,7 +15,7 @@
     farmtime:
       description: Spawns entities in number specified in arguments
       usage: /<command> <entity> <amount>
-    megumin:
+    wand:
       description: Gives a Wand of Instant kill to player
       usage: /<command>
     select:
