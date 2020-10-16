@@ -8,7 +8,9 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.event.player.*;
 
+
 public class TutorialEvents implements Listener {
+
 
     @EventHandler
     public static void onPlayerJoin(PlayerJoinEvent event){

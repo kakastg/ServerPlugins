@@ -1,0 +1,17 @@
+[00:06:47] [Server thread/INFO]: AccelerationYes lost connection: Disconnected
+[00:06:47] [Server thread/INFO]: AccelerationYes left the game
+[00:06:54] [Server thread/INFO]: Stopping the server
+[00:06:54] [Server thread/INFO]: Stopping server
+[00:06:54] [Server thread/INFO]: [Tutorial] Disabling Tutorial v1.0
+[00:06:54] [Server thread/INFO]: [0;31;1mGone already?[m
+[00:06:54] [Server thread/INFO]: Saving players
+[00:06:54] [Server thread/INFO]: Saving worlds
+[00:06:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:06:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:06:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -1,9 +1,9 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="Tutorial:jar">
-    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
+    <output-path>$PROJECT_DIR$/../Spigot/plugins</output-path>
     <root id="archive" name="Tutorial.jar">
       <element id="module-output" name="Tutorial" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../Dependencies/spigot-api-1.15.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Spigot/spigot-1.16.3.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
